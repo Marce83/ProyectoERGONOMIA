@@ -80,7 +80,6 @@ namespace TF.WIN
 
                         var res = oEmpleadosBC.InsertEmpleadosBC(oBe);
                         MessageBox.Show("Empleado cargado exitosamente");
-                        //Esto es una prueba para Git
                         Listar();
                         Limpiar();
                     }
